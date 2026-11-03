@@ -1,7 +1,0 @@
-{
-  "rules": {
-    "sync": {
-      "$code": { ".read": true, ".write": true }
-    }
-  }
-}
